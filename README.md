@@ -128,7 +128,8 @@ Próximos proyectos y áreas de crecimiento:
 | Frontend | Angular, React, TypeScript |
 | DevOps | Docker, GitHub Actions |
 | Arquitectura | Diseño de soluciones y documentación técnica |
-| Objetivo | Evolucionar hacia roles de Technical Lead y Full-Stack Engineer |
+| Agilidad | Formación Scrum Master (Scrum Alliance), interés en coaching ágil y liderazgo de equipos |
+| Objetivo | Evolucionar hacia roles de Technical Lead, Agile Lead y Full‑Stack Engineer |
 
 ---
 
