@@ -47,7 +47,7 @@ Los proyectos publicados en este portafolio tienen como objetivo demostrar habil
 
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |-----------|------------|------------|------------|
-| **🐾 PetHealth API** | Plataforma backend orientada a la gestión de información relacionada con la salud y cuidado de mascotas. Incluye diseño de APIs REST, persistencia de datos y arquitectura orientada a buenas prácticas empresariales. | Java, Spring Boot, PostgreSQL, Maven, Docker | 🔗 **[URL_REPOSITORIO_PETHEALTH]** |
+| **🐾 PetHealth API** | Plataforma backend orientada a la gestión de información relacionada con la salud y cuidado de mascotas. Incluye diseño de APIs REST, persistencia de datos y arquitectura orientada a buenas prácticas empresariales. | Java, Spring Boot, PostgreSQL, Maven, Docker | 🔗 **https://github.com/AlejandroUyaguari/pethealth** |
 | **👥 Customer Management API** | API REST para gestión de clientes con validaciones, documentación OpenAPI, manejo centralizado de errores y persistencia de datos. | Java, Spring Boot, PostgreSQL | 🔗 Próximamente |
 
 ---
