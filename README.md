@@ -41,14 +41,14 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo Full-Stack, ampl
 
 ---
 
-# 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 Los proyectos publicados en este portafolio tienen como objetivo demostrar habilidades técnicas, capacidad de diseño de soluciones y aplicación de buenas prácticas de desarrollo de software.
 
-| Proyecto | Descripción | Tecnologías | Repositorio |
+| Proyecto | Descripción | Tecnologías | Enlaces |
 |-----------|------------|------------|------------|
-| **🐾 PetHealth API** | Plataforma backend orientada a la gestión de información relacionada con la salud y cuidado de mascotas. Incluye diseño de APIs REST, persistencia de datos y arquitectura orientada a buenas prácticas empresariales. | Java, Spring Boot, PostgreSQL, Maven, Docker | 🔗 **https://github.com/AlejandroUyaguari/pethealth** |
-| **👥 Customer Management API** | API REST para gestión de clientes con validaciones, documentación OpenAPI, manejo centralizado de errores y persistencia de datos. | Java, Spring Boot, PostgreSQL | 🔗 Próximamente |
+| 🐾 **PetHealth API** | Plataforma backend orientada a la gestión de información relacionada con la salud y cuidado de mascotas. Incluye diseño de APIs REST, persistencia de datos, Arquitectura Limpia (Clean Architecture) y buenas prácticas empresariales. | Java, Spring Boot, PostgreSQL, Maven, Docker | 📂 [Repositorio](https://github.com/AlejandroUyaguari/pethealth)<br>📖 [Swagger](https://pethealth-sa6d.onrender.com/swagger-ui/index.html) |
+| 👥 **Customer Management API** | API REST para gestión de clientes con validaciones, documentación OpenAPI, manejo centralizado de errores y persistencia de datos. | Java, Spring Boot, PostgreSQL | 🚧 Próximamente |
 
 ---
 
