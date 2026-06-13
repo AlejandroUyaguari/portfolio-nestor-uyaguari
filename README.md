@@ -47,7 +47,7 @@ Los proyectos publicados en este portafolio tienen como objetivo demostrar habil
 
 | Proyecto | Descripción | Tecnologías | Enlaces |
 |-----------|------------|------------|------------|
-| 🐾 **PetHealth API** | Plataforma backend orientada a la gestión de información relacionada con la salud y cuidado de mascotas. Incluye diseño de APIs REST, persistencia de datos, Arquitectura Limpia (Clean Architecture) y buenas prácticas empresariales. | Java, Spring Boot, PostgreSQL, Maven, Docker | 📂 [Repositorio](https://github.com/AlejandroUyaguari/pethealth)<br>📖 [Swagger](https://pethealth-sa6d.onrender.com/swagger-ui/index.html) |
+| 🐾 **PetHealth API** | Plataforma backend orientada a la gestión de información relacionada con la salud y cuidado de mascotas. Incluye diseño de APIs REST, persistencia de datos, Arquitectura Limpia (Clean Architecture) y buenas prácticas empresariales. | Java, Spring Boot, PostgreSQL, Maven, Docker | 📂 [Repositorio](https://github.com/NestorUyaguari/pethealth)<br>📖 [Swagger](https://pethealth-sa6d.onrender.com/swagger-ui/index.html) |
 | 👥 **Customer Management API** | API REST para gestión de clientes con validaciones, documentación OpenAPI, manejo centralizado de errores y persistencia de datos. | Java, Spring Boot, PostgreSQL | 🚧 Próximamente |
 
 > ⚠️ Los proyectos desplegados en Render Free Tier pueden tardar algunos segundos en responder la primera solicitud debido al proceso de activación del servicio.
